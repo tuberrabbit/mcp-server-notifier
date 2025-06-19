@@ -279,3 +279,6 @@ MIT License - see LICENSE file for details.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+This MCP is certified by MCP Review.  
+Certification page: [https://mcpreview.com/mcp-servers/tuberrabbit/mcp-server-notifier](https://mcpreview.com/mcp-servers/tuberrabbit/mcp-server-notifier)
